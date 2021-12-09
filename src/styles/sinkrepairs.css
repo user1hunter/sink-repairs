@@ -1,0 +1,29 @@
+body {
+  background-color: gainsboro;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+}
+
+.label {
+  font-size: 1.5em;
+  margin-top: 0.5em;
+}
+
+.button {
+  background-color: firebrick;
+  color: white;
+  margin: 1.5em 0;
+  padding: 1em;
+}
+
+.request__delete {
+  background-color: firebrick;
+  color: white;
+}
+
+.input {
+  background-color: lightgreen;
+}
